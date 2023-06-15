@@ -15,6 +15,7 @@
 	<packaging>pom</packaging>
 	<modules>
 	<module>ShopmeBackEnd</module>
+	<module>ShopmeFrontEnd</module>
 	</modules>
 	<description>parent spring web project</description>
 	<properties>
